@@ -1,2 +1,3 @@
-# Bangalore-Diaries
-This repository is created in-order to maintain Web Technology Lab Assignment. 
+# Bangalore Diaries
+
+Bangalore Diaries is a web site developed for the puropse for Lab Assignment.
