@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="ExtXMLcss.css"?> 
+<!DOCTYPE list SYSTEM "simple.dtd">
+<body>
+<list>
+  <getaways>
+    <title>WeekEnd Getaways in Bangalore</title>
+    
+    <brief_intro>If you want to break the monotony of your routine through a change of scenery, there are all sorts of weekend getaways from Bangalore. Leave behind your worries and humdrum affairs of life, and escape to one of these amazing places to find solace. From pleasingly scenic hill stations where one can indulge in a number of adventures to coastal towns featuring pristine beaches, Bangalore is surrounded by excellent destinations for all kinds of travelers.</brief_intro>
+    
+    
+    <list_of_places>
+      <item>
+        <name>Shivanasamudra Falls
+</name>
+        <info>This small island town is perfect for a one day trip from Bangalore. Surrounded by forested hills and verdant valleys, the town is located on the banks of river Kaveri. Having cut through the rocks and ravines of the Deccan Plateau, the river drops downstream to form the key attraction of the island- the breathtaking Shivanasamudra Falls.
+
+Enjoy the calm of nature amid the roar of the cascading falls here. This spot is perfect for a little picnic with your family or friends.
+
+Get in touch with your spiritual side at the architecturally beautiful Ranganatha Temple.
+
+Adventure lovers and wildlife enthusiasts can head to the Cauvery Wildlife Sanctuary to enjoy the sport of trekking, fishing and rock climbing while exotic fish and birds occasionally surprise you.</info>
+      </item>
+        
+      <item>
+        <name> Mysore</name>
+        <info>Boasting of rich cultural past and present-day urbanization, Mysore is a beautiful blend of traditional and modern attractions. From royal palaces and ornate temples to gardens and galleries, there is so much to explore in this ‘City of Palaces’.
+
+On your way, do make a brief stop at Channapatna. Famous for its toy emporiums, the origin of some of the wooden toys can be traced back to the reign of Tipu Sultan.
+
+Once you are in the city, explore its culture and history through the palatial monuments. Walk through the magnificent Mysore Palace. With intricate motifs, royal chandeliers and distinct furniture, the palace is a stunning spectacle of Dravidian, European and Roman architectural styles. Do visit the Jagmohan Palace as well.
+
+About 2 kms from the Mysore Palace is the Karanji Lake. Flanked by the Chamundi Hills, with a butterfly park and an aviary in the vicinity, the lake grants you the much-needed solace. Enjoy boating in the lake as exotic birds like swans and pelicans flutter their wings in water to cool themselves. If you are lucky, you may catch a sight or two of a peacock.</info>
+      </item>
+
+      <item>
+        <name>Yercaud</name>
+        <info>Nestled among the Shevaroy Hills in the Eastern Ghats, Yercaud is a quaint hill station near Bangalore, ideal for a weekend trip.
+
+The key attraction of Yercaud is the Emerald Lake. Surrounded by dense woods and hills with a lush garden on its banks, the lake is a feast for the eyes. You can enjoy boating through the glimmering waters of the lake and capture envy-inducing pictures.
+
+While in town, trek through the mystic thick forests to the Killiyur Falls.  The spectacular waterfall lies close to the Yercaud Lake and cascades down to the Killiyur valley offering an awe-inspiring view.</info>
+      </item>
+
+    </list_of_places>
+  </getaways>
+ </list>
+</body>

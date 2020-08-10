@@ -1,0 +1,51 @@
+<?xml version = "1.0" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="IntXMLCSS.css"?> 
+<!DOCTYPE document [ 
+<!ELEMENT document (user_for_feedback)*> 
+<!ELEMENT user_for_feedback (name, query_date, loc_address, project_type)> 
+<!ELEMENT name (lastname, firstname)> 
+<!ELEMENT lastname (#PCDATA)> 
+<!ELEMENT firstname (#PCDATA)> 
+<!ELEMENT query_date (#PCDATA)> 
+<!ELEMENT loc_address (#PCDATA)*> 
+<!ELEMENT project_type (#PCDATA)> 
+] > 
+<document>
+  <title>This Page Shows the User Details with Query</title>
+  <title>Internal DTD and CSS Styling to XML Respectively</title>
+
+  <user_for_feedback>
+    	<title>User ID #101</title> 
+        <name>
+        	<firstname>Ashwini</firstname>
+        	<lastname>S</lastname>
+        </name>
+        <query_date>Query Date : June 5th 2020</query_date> 
+        <loc_address>Address  : House 32, 5th Block, Brandfort Lane, Chennai</loc_address> 
+        <project_type>Project Type : Food and Lifestyle Blog</project_type> 
+    </user_for_feedback> 
+
+
+    <user_for_feedback> 
+    	<title>User ID #102</title> 
+        <name>
+        	<firstname>Priya</firstname>
+        	<lastname>A</lastname>
+        </name>
+        <query_date>Query Date : 30th October</query_date> 
+        <loc_address>Address  : House 142, 2nd Rosemary Weikfield Lane, Mumbai</loc_address> 
+        <project_type>Project Type : Counselling and Mental Health Blog</project_type>  
+    </user_for_feedback> 
+
+
+<user_for_feedback>
+		<title>User ID #103</title>  
+        <name>
+        	<firstname>Shalini</firstname>
+        	<lastname>M</lastname>
+        </name>
+        <query_date>Query Date : 27th June 2020</query_date> 
+        <loc_address>Address  : Ulsoor, Bangalore</loc_address> 
+        <project_type>Project Type : Education and Job</project_type> 
+    </user_for_feedback> 
+</document>

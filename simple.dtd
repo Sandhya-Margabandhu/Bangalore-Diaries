@@ -1,0 +1,8 @@
+<!ELEMENT list (product) >
+<!ELEMENT product (name, brief_intro, list_of_places, item)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT brief_intro (#PCDATA)>
+<!ELEMENT list_of_places (#PCDATA)>
+<!ELEMENT item (name, info)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT info (#PCDATA)>

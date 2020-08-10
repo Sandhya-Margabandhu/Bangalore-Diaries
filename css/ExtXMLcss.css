@@ -1,0 +1,42 @@
+body
+{
+	background: #f7fbe1 url(images/cover.png) no-repeat center; 
+}
+title{ 
+	display:block; 
+	font-weight:bolder; 
+	text-align:center; 
+	font-size:45px; 
+	background: #e8ba49;
+	color: white; 
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 10px;
+	border-color: #db648b; 
+    margin:0.7em;  
+    padding:0.7em;
+
+	} 
+
+name, brief_intro, list_of_places
+{ 
+	display:block; 
+	text-align:center;
+	font-family: Poppins; 
+}
+ 
+name { 
+	color: #d6efc7;
+	font-size: 25px;
+	margin-top:2em;
+	} 
+info { 
+	color:#28B463;
+	font-size: 20px;
+	
+	} 
+brief_intro
+{
+	color: #d6efc7;
+	font-size: 25px;
+	margin-bottom:2.2em;
+}
