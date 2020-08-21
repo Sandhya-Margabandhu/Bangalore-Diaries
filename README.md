@@ -1,5 +1,7 @@
 # Bangalore Diaries 
 ### A blog about Bangalore City
+<img src="images/coverpic.PNG" height="300" width="700"/>
+
 This repository is created in order to maintain Web Technology Lab Assignment - 3MCS. 
 
 It consists of following components used for Website Development:
@@ -27,5 +29,7 @@ CSS lists – all different list item markers in lists.
 - Lab 08 : Form Validation, Use of regular expression.
    
    (More Will Be Added Soon)
-
+   
+<img src="images/logo.png" height="40" width="40"/>
 | Sandhya Margabandhu | 
+
