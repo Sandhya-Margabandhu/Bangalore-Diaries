@@ -1,0 +1,37 @@
+title{ 
+	display:block; 
+	font-weight:bolder; 
+	text-align:center; 
+	font-size:20px; 
+	background-color: #F39C12; 
+	color: white; 
+	font-family: Poppins;
+	border: 3px solid white; 
+    margin:0.2em;  
+    padding:0.2em;
+	} 
+
+name, query_date, loc_address, project_type, cost 
+{ 
+	display:block; 
+	text-align:center;
+	font-family: Poppins; 
+}
+ 
+name { 
+	color:#34495E; 
+	font-weight:bolder; 
+	font-size:20px; 
+	} 
+query_date { 
+	color:#28B463
+	} 
+loc_address { 
+	color:#E74C3C 
+	} 
+project_type { 
+	color:#2E86C1
+	} 
+cost { 
+	color:#2E4053 
+	} 

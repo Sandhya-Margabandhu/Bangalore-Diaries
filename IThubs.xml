@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="IThubs.xsl"?>
+
+<starter>
+
+<food type="non-veg">
+<name>Amalfi-Style Fish Soup</name>
+<price>120</price>
+<Rating>3.8</Rating>
+<serving>2</serving>
+</food>
+
+<food type="non-veg">
+<name>AsparagusGrana Padano</name>
+<price>132</price>
+<Rating>3.12</Rating>
+<serving>2</serving>
+</food>
+
+<food type="veg">
+<name>Parsley Vinaigrette</name>
+<price>80</price>
+<Rating>3.56</Rating>
+<serving>1</serving>
+</food>
+
+<food type="non-veg">
+<name>Rolled Aubergines </name>
+<price>48</price>
+<Rating>3.6</Rating>
+<serving>1</serving>
+</food>
+
+<food type="veg">
+<name>Pancetta</name>
+<price>160</price>
+<Rating>4.1</Rating>
+<serving>2</serving>
+</food>
+
+<food type="veg">
+<name>Bagna cauda</name>
+<price>210</price>
+<Rating>4.2</Rating>
+<serving>3</serving>
+</food>
+
+<food type="non-veg">
+<name >Sardines al saor</name>
+<price>165</price>
+<Rating>3.8</Rating>
+<serving>2</serving>
+</food>
+
+<food type="non-veg">
+<name>Stracciatella soup</name>
+<price>70</price>
+<Rating>3.1</Rating>
+<serving>4</serving>
+</food>
+
+<food type="veg">
+<name>Mushroom Risotto</name>
+<price>80</price>
+<Rating>4.2</Rating>
+<serving>1</serving>
+</food>
+
+<food type="veg">
+<name>Pasta Con</name>
+<price>80</price>
+<Rating>4.7</Rating>
+<serving>1</serving>
+</food>
+
+<food type="veg">
+<name>Caprese Salad </name>
+<price>80</price>
+<Rating>4.3</Rating>
+<serving>1</serving>
+</food>
+
+<food type="non-veg">
+<name>Panzenella</name>
+<price>220</price>
+<Rating>4.5</Rating>
+<serving>4</serving>
+</food>
+
+<food type="veg">
+<name>Focaccia Bread</name>
+<price>180</price>
+<Rating>3.9</Rating>
+<serving>2</serving>
+</food>
+
+<!--Mocktail-->
+<food type="mocktail">
+<name>Prawnssss Monkish Mocktail</name>
+<price>60</price>
+<Rating>3.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Amalfi-Style Fish Mocktail</name>
+<price>50</price>
+<Rating>3.8</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Asparagu Grana Padano</name>
+<price>60</price>
+<Rating>3.12</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Parsley Vinaigrette</name>
+<price>70</price>
+<Rating>3.56</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Rolled Aubergines </name>
+<price>80</price>
+<Rating>3.6</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Pancetta</name>
+<price>70</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Bagna cauda</name>
+<price>65</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Sardines al saor</name>
+<price>75</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Stracciatella Mocktail</name>
+<price>70</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Griddled octopus</name>
+<price>90</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+
+<food type="mocktail">
+<name>Pancetta-wrapped</name>
+<price>80</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Pancetta-wrapped</name>
+<price>90</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Pancetta-wrapped</name>
+<price>80</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+<food type="mocktail">
+<name>Pancetta-wrapped</name>
+<price>70</price>
+<Rating>4.5</Rating>
+<serving>1</serving>
+</food>
+
+</starter>
+

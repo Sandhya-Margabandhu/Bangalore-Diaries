@@ -10,8 +10,8 @@
 <!ELEMENT loc_address (#PCDATA)*> 
 <!ELEMENT project_type (#PCDATA)> 
 ] > 
-<document>
-  <title>This Page Shows the User Details with Query</title>
+<document xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title xlink:type="simple" xlink:href="ExternalDTD.xml#001">This Page Shows the User Details with Query</title>
   <title>Internal DTD and CSS Styling to XML Respectively</title>
 
   <user_for_feedback>

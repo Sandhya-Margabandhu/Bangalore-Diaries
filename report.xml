@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "report.xsl"?> 
+<pricereport> 
+   <!-- Comment: This is a list of student --> 
+   <report id = "001"> 
+      <firstname>Sandhya</firstname> 
+      <lastname>M</lastname> 
+      <occupation>Own Bussiness</occupation> 
+      <city>Bangalore</city> 
+      <price>2500</price>
+
+      
+   </report > 
+
+    <report id = "002"> 
+      <firstname>Ashwini</firstname> 
+      <lastname>S</lastname> 
+      <occupation>Own Bussiness</occupation> 
+      <city>Chennai</city> 
+      
+      <price>2500</price>
+   </report > 
+
+    <report id = "003"> 
+      <firstname>Priya</firstname> 
+      <lastname>A</lastname> 
+      <occupation>Own Bussiness</occupation> 
+      <city>Mangalore</city> 
+      <price>2500</price>
+   </report>
+    
+    <report id = "004"> 
+      <firstname>Shalini</firstname> 
+      <lastname>B</lastname> 
+      <occupation>Own Bussiness</occupation> 
+      <city>Pune</city> 
+      <price>2500</price>
+   </report > 
+
+</pricereport> 
