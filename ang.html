@@ -1,0 +1,11 @@
+<html ng-app>
+ <!-- Body tag augmented with ngController directive  -->
+ <body ng-controller="MyController">
+   <input ng-model="foo" value="bar">
+   <!-- Button tag with ngClick directive, and
+          string expression 'buttonText'
+          wrapped in "{{ }}" markup -->
+   <button ng-click="changeFoo()">{{buttonText}}</button>
+   <script src="angular.js"></script>
+ </body>
+</html>
