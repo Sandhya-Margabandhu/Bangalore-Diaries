@@ -10,6 +10,9 @@ It consists of following components used for Website Development:
  3. XML
  4. DOM
  5. JAVASCRIPT
+ 6. JSON
+ 7. JQUERY
+ 8. ANGULAR JS
  
 - Lab 01 : 
 HTML basics
@@ -27,9 +30,18 @@ CSS lists – all different list item markers in lists.
 - Lab 06 : XML file using Document Type Definition (DTD), Internal and External DTD.
 - Lab 07 : DOM parser, converting it into data format.
 - Lab 08 : Form Validation, Use of regular expression.
+- Lab 09 : Archive the details from a JSON file and put it into the web page using HTML.
+- Lab 10 : JQUERY
+    - Effects like fadein, fadeout, animate, toggle, show, hide
+    - Events like onmouseover, keydown 
+    - Form serialize & Serializearray
+    - Jquery UI (Widgets, Interactions, effects)
+- Lab 11 : ANGULAR JS
+   - Modules, Directives, Data Binding, Controllers, Filters, Events, Validations, Forms, DOM, Animation
    
    (More Will Be Added Soon)
    
 <img src="images/logo.png" height="40" width="40"/>
+| Thank You |
 | Sandhya Margabandhu | 
 
